@@ -1,0 +1,11 @@
+{
+    "name": "alex.ostrovsky/rector-problem",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "rector/rector": "^0.14.2"
+    }
+}
